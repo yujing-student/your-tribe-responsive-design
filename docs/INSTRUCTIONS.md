@@ -58,7 +58,7 @@ Bouwen !
 
 1. Open de code van je squadpage in je code editor
 2. Schrijf eerst de media-query in je CSS code en bouw de layout voor S en L scherm
-3. Test regelmatig in je browser of de media-query goed werkt
+3. Test regelmatig in je browser of je media-query goed werkt
 
 
 
@@ -67,6 +67,7 @@ Bouwen !
 - [Using media queries op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [@media width op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 
 
 
