@@ -14,7 +14,7 @@ In het college S21W2-03 Responsive Design wordt behandeld wat Responsive Design 
 
 ## Doel van deze opdracht
 
-Je leert hoe je een media-query kan gebruiken om een responve design in CSS kan maken. 
+Je leert hoe je een media-query kan gebruiken om een responve design te maken. 
 
 
 ## Werkwijze
@@ -28,31 +28,45 @@ Deze opdracht gaat over de [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de 
 
 
 ### Ontwerpen
-Uitleg..
+
+In de ontwerpfase schets je een responsive design voor verschillende scherm-groottes.
 
 #### Aanpak
 
-1. ...
-2. ...
+1. Schets de squadpage voor een mobiel scherm (S) en een laptop scherm (L) 
+2. Maak een breakdownschets en schrijf op hoe je de vormgeving met CSS kan maken
+3. Bepaal het breakpoint, bij welke schermbreedte krijg je een andere layout te zien? Maak aantekeningen op je breakdownschets. 
+
+
+
 
 #### Materiaal 
 
-- [bron]
-- [bron]
+- [How Much Has The Web Really Changed?](https://www.smashingmagazine.com/2013/05/new-defaults-web-design/)
+- [This Is Responsive](https://bradfrost.github.io/this-is-responsive/index.html)
+- [The New Multi-screen World](https://ssl.gstatic.com/think/docs/the-new-multi-screen-world-study_research-studies.pdf)
 
 
 ### Bouwen
-Uitleg..
+
+In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
 
 #### Aanpak
 
-1. ...
-2. ...
+
+Bouwen !
+
+1. Open de code van je squadpage in je code editor
+2. Schrijf eerst de media-query in je CSS code en bouw de layout voor S en L scherm
+3. Test regelmatig in je browser of de media-query goed werkt
+
+
 
 #### Materiaal 
 
-- [bron]
-- [bron]
+- [Using media queries op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [@media width op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
+- [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 
 
 
