@@ -1,39 +1,31 @@
 
-# [sprintnaam] - [deeltaak-naam]
+# Your Tribe - Responsive Design
 
-Beschrijving van de deeltaak
+Schets en maak een responsive design voor je squadpage.
 
 ## Context
 
-Deze leertaak hoort bij sprint # [sprintnaam]. Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college S21W2-03 Responsive Design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken.
+
+
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Je leert hoe je een media-query kan gebruiken om een responve design in CSS kan maken. 
 
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+![image](https://user-images.githubusercontent.com/1391509/190009566-67c7289a-f590-4d38-8408-5502af2ccb0f.png)
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
 
-### Analyseren
-Uitleg..
 
-#### Aanpak
+Deze opdracht gaat over de [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de Development-lifecycle
 
-1. ...
-2. ...
 
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ### Ontwerpen
 Uitleg..
@@ -62,42 +54,18 @@ Uitleg..
 - [bron]
 - [bron]
 
-### Integreren
-Uitleg..
 
-#### Aanpak
 
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op ...
+Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
 
-Deze deeltaak hoort bij het gedragscriterium:  
-...
+Deze deeltaak hoort bij het gedragscriterium:
+
+- Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
+- [ ] je in de wiki van je squadpage repository een breakdown schets met CSS pseudeo-code hebt opgenomen
+- [ ] je in de wiki van van je squadpage repository de media-query CSS code hebt uitgelegd
