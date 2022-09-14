@@ -57,7 +57,7 @@ In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe di
 
 1. Open de code van je squadpage in je code editor
 2. Schrijf eerst de media-query in je CSS code en bouw de layout voor S en L scherm
-3. Test regelmatig in je browser of je media-query goed werkt
+3. Test regelmatig in je browser of je media-query goed werkt. Test het ook op je mobiel. Werkt het het niet goed? Heb je de _viewport meta tag_ wel in het HTML document staan?
 
 
 
