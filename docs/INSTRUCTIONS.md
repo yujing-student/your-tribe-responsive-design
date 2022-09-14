@@ -81,5 +81,5 @@ Deze deeltaak hoort bij het gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudeo-code hebt opgenomen
-- [ ] je in de wiki van van je squadpage de media-query CSS code hebt uitgelegd
+- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudeo-code hebt opgenomen en uitgelegd
+- [ ] je in de wiki van van je squadpage de media-query code hebt uitgelegd
