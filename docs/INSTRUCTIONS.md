@@ -7,7 +7,7 @@ Schets en maak een responsive design voor je squadpage.
 
 Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individueel uitvoert.
 
-In het college S21W2-03 Responsive Design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken.
+In het college S1W2-03 Responsive Design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken.
 
 
 
