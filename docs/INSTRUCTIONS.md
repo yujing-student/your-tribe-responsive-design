@@ -9,7 +9,8 @@ Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individu
 
 In het college S1W2-03 Responsive Design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken.
 
-
+Deze deeltaak hoor bij de leertaak:
+- [Your Tribe Profile Card](https://github.com/fdnd-task/your-tribe-profile-card)
 
 
 ## Doel van deze opdracht
