@@ -77,4 +77,4 @@ In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe di
 Deze opdracht is done als:
 
 - [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudeo-code hebt opgenomen en uitgelegd
-- [ ] je in de wiki van van je squadpage de media-query code hebt uitgelegd
+- [ ] je in de code van van je squadpage de media-query hebt uitgelegd
