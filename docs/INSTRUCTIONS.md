@@ -10,7 +10,7 @@ Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individu
 In het college S1W2-03 Responsive Design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken.
 
 Deze deeltaak hoort bij de leertaak:
-- [Your Tribe - Profile Card](https://github.com/fdnd-task/your-tribe-profile-card)
+- [Your Tribe - Squad Page](https://github.com/fdnd-task/your-tribe-squad-page)
 
 
 ## Doel van deze opdracht
@@ -20,9 +20,7 @@ Je leert hoe je een media-query kan gebruiken om een responve design te maken.
 
 ## Werkwijze
 
-![image](https://user-images.githubusercontent.com/1391509/190009566-67c7289a-f590-4d38-8408-5502af2ccb0f.png)
-
-
+<img width="1396" alt="image" src="https://github.com/fdnd-task/your-tribe-responsive-design/assets/1391509/5f84493d-32ef-49e5-b52f-f68443d96663">
 
 Deze opdracht gaat over de [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de Development-lifecycle
 
@@ -35,18 +33,19 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 #### Aanpak
 
 1. Schets de squadpage voor een mobiel scherm (S) en een laptop scherm (L) 
-2. Maak een breakdownschets en schrijf op hoe je de vormgeving met CSS kan maken. Als je nog niet weet hoe je een layout in CSS moet maken, ga dan met een klasgenoot overleggen die al meer weet van CSS
+2. Maak een breakdownschets en schrijf op hoe je de vormgeving met CSS kan maken. Als je nog niet weet hoe je een layout in CSS moet maken, ga dan met een tweedejaars overleggen die al meer weet van CSS
 3. Bepaal het breakpoint, bij welke schermbreedte krijg je een andere layout te zien? Maak aantekeningen op je breakdownschets. 
 
-<img width="1054" alt="image" src="https://user-images.githubusercontent.com/1391509/190015653-16903c62-09bc-4047-a186-dc368d18242e.png">
+<img width="1054" alt="Breakdownschets met breakpoint" src="https://user-images.githubusercontent.com/1391509/190015653-16903c62-09bc-4047-a186-dc368d18242e.png">
+<small><i>Breakdownschets met breakpoint</i></small>
 
 
 
 #### Materiaal 
 
 - [How Much Has The Web Really Changed?](https://www.smashingmagazine.com/2013/05/new-defaults-web-design/)
-- [This Is Responsive](https://bradfrost.github.io/this-is-responsive/index.html)
 - [The New Multi-screen World](https://ssl.gstatic.com/think/docs/the-new-multi-screen-world-study_research-studies.pdf)
+- [The ideal viewport doesn’t exist](https://viewports.fyi)
 
 
 ### Bouwen
@@ -76,5 +75,5 @@ In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe di
 
 Deze opdracht is done als:
 
-- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudeo-code hebt opgenomen en uitgelegd
-- [ ] je in de code van van je squadpage de media-query hebt uitgelegd
+- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudo-code hebt opgenomen en uitgelegd
+- [ ] je in de code van je squadpage de media-query hebt uitgelegd
