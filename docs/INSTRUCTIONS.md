@@ -44,13 +44,13 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 #### Materiaal 
 
 - [How Much Has The Web Really Changed?](https://www.smashingmagazine.com/2013/05/new-defaults-web-design/)
-- [This Is Responsive](https://bradfrost.github.io/this-is-responsive/index.html)
 - [The New Multi-screen World](https://ssl.gstatic.com/think/docs/the-new-multi-screen-world-study_research-studies.pdf)
+- [The ideal viewport doesn’t exist](https://viewports.fyi)
 
 
 ### Bouwen
 
-In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
+In de bowfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
 
 #### Aanpak
 
