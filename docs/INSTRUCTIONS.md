@@ -37,8 +37,7 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 3. Bepaal het breakpoint, bij welke schermbreedte krijg je een andere layout te zien? Maak aantekeningen op je breakdownschets. 
 
 <img width="1054" alt="image" src="https://user-images.githubusercontent.com/1391509/190015653-16903c62-09bc-4047-a186-dc368d18242e.png">
-
-Breakdownschets met breakpoint
+_Breakdownschets met breakpoint_
 
 
 
