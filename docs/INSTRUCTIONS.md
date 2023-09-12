@@ -38,7 +38,7 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 
 <img width="1054" alt="Breakdownschets met breakpoint" src="https://user-images.githubusercontent.com/1391509/190015653-16903c62-09bc-4047-a186-dc368d18242e.png">
 
-_Breakdownschets met breakpoint_
+<small><i>Breakdownschets met breakpoint</i></small>
 
 
 
