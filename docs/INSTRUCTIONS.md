@@ -50,7 +50,7 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 
 ### Bouwen
 
-In de bowfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
+In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
 
 #### Aanpak
 
