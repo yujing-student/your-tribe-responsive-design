@@ -20,9 +20,7 @@ Je leert hoe je een media-query kan gebruiken om een responve design te maken.
 
 ## Werkwijze
 
-![image](https://user-images.githubusercontent.com/1391509/190009566-67c7289a-f590-4d38-8408-5502af2ccb0f.png)
-
-
+<img width="1396" alt="image" src="https://github.com/fdnd-task/your-tribe-responsive-design/assets/1391509/5f84493d-32ef-49e5-b52f-f68443d96663">
 
 Deze opdracht gaat over de [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de Development-lifecycle
 
