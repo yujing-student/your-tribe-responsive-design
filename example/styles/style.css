@@ -57,23 +57,11 @@ img{
     body {
       /* background: yellow; */
     }
-    ul{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between; 
-        align-items:flex-start;
-        gap: 0.5rem;
-    }
     li{
         flex: 1 1 30%;
     }
+    li:nth-child(5n-10){
+        flex-basis: 50%;
+    }
     
   }
-
-
-
-
-
-  
-
-
