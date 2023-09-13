@@ -37,7 +37,20 @@ img{
 
   
 
-  
+@media (min-width: 41rem) {
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between; 
+        align-items:flex-start;
+        gap: 0.5rem;
+    }
+    li{
+        flex: 1 1 45%;
+    }
+
+}
+
 
 
 @media (min-width: 61rem) {
@@ -62,18 +75,5 @@ img{
 
 
   
-  /* @media (min-width: 41rem) {
-    ul{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between; 
-        align-items:flex-start;
-        gap: 0.5rem;
-    }
-    li{
-        flex: 1 1 45%;
-    }
-    
-  } */
 
 
