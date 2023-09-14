@@ -34,6 +34,11 @@ li{
 img{
     width: 100%;
 }
+/* credits in footer */
+footer{
+    overdlow-x:hidden;
+}
+
 
   
 
