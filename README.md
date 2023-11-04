@@ -2,7 +2,9 @@
 
 # Responsive Design
 
-Schets en maak een responsive design voor je squadpage.
+zie de link naar onze schetsen :https://github.com/yujing-student/your-tribe-squad-page/wiki/2-ontwerpen
+zie de uitleg over de code :https://github.com/yujing-student/your-tribe-squad-page/wiki/bouwen
+
 
 
 ## Licentie
